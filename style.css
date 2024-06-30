@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    font-size: 72px;
+    font-weight: 100;
+    width: fit-content;
+    background: -webkit-linear-gradient(45deg, #dfc4a7, #f1acb7);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+p {
+    font-weight: 100;
+    color: #b4a7bc;
+}
+
+.color_palette {
+    color: #b4a7bc
+    #fff4e7
+    #ead2b0
+    #dfc4a7
+    #3b1e19
+    #341713
+    #935155
+    #ffd2c4
+    #745853
+    #f1acb7;
+}
