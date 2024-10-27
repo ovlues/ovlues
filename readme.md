@@ -3,7 +3,7 @@
 
 [![ovlues's GitHub stats](https://github-readme-stats.vercel.app/api?username=ovlues&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/ovlues/github-readme-stats)
 
-<a href="https://instagram.com/alpox.dev">
+<a href="https://instagram.com/sely0.x">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/sely0.x/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
